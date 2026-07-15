@@ -1,0 +1,8 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta importante para fortalecer la participación
+ciudadana y la organización comunitaria. Comprendí que una plataforma digital puede facilitar la creación de causas, 
+el registro de apoyos y el seguimiento de solicitudes. También aprendí la importancia de proteger los datos personales 
+y aplicar medidas de seguridad para generar confianza en los usuarios. Las metodologías ágiles permiten organizar mejor 
+los proyectos y trabajar de manera colaborativa. Además, herramientas como Git, n8n y Telegram ayudan a mejorar la gestión 
+y automatización de procesos. Entendí que desarrollar tecnología no solo implica programar, sino crear soluciones que respondan
+a necesidades reales de la comunidad. Finalmente, aprendí que la transparencia, la privacidad y la accesibilidad son fundamentales 
+para construir herramientas con impacto social.

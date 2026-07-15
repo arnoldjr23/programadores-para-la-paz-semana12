@@ -1,0 +1,8 @@
+Un ciudadano ingresa a la plataforma y crea una causa con título y descripción.
+La causa se guarda en la base de datos con estado inicial (por ejemplo, pendiente).
+La causa aparece en la lista de causas disponibles para otros usuarios.
+Otros ciudadanos pueden dar clic en “Apoyar” la causa.
+El sistema registra cada apoyo y actualiza el contador.
+El usuario puede ver el seguimiento del estado de la causa.
+Cuando hay suficientes apoyos, el sistema genera un documento (PDF) con la petición.
+La petición puede ser revisada y utilizada para presentarse ante una entidad correspondiente.

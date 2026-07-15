@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+
+id
+titulo
+descripcion
+fecha
+
+Propósito:
+Sirve para almacenar las causas o peticiones creadas por los ciudadanos, guardando la información principal del problema o solicitud que se quiere apoyar.
+
+Entidad: Apoyo
+
+Campos principales:
+
+id
+causa_id
+nombre
+fecha
+
+Propósito:
+Sirve para registrar las personas que apoyan una causa determinada, permitiendo llevar un conteo de apoyos y hacer seguimiento a la participación ciudadana.
